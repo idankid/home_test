@@ -1,0 +1,1 @@
+{"status":["one","two","three"],"transition":[{"name":"uno","from":"three","to":"one"}],"initial":"three","orphan":["two"],"final":["one","two"]}
