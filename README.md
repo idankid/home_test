@@ -1,3 +1,3 @@
 # home_test
-download the reapository
+download the reapository\n
 open a terminal in 
