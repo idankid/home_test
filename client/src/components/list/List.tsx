@@ -20,7 +20,7 @@ const List = (props:{list:any[], stat:boolean, update:updateFunctions, variables
 
     const updateInitial = async(name:string)=>{
         await data.setInitial(name);
-        getData(props.variables, props.update)
+        props.update.initial(name);
     }
 
     return (
