@@ -1,0 +1,16 @@
+#reset{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    color: white
+}
+
+.listItemStat{
+    display: grid;
+    grid-template-columns: 25px 200px 200px;
+}
+.listItemtransition{
+    display: grid;
+    grid-template-columns: 200px 200px;
+}
